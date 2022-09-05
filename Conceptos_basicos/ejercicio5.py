@@ -4,5 +4,3 @@ def factorial(n):
         fact *= i
     return fact
                
-
-print(factorial(0))
